@@ -1,0 +1,1 @@
+data class ArchiveObject(val nameArchive: String, var notes: ArrayList<NoteObject>)
